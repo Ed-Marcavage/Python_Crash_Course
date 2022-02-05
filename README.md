@@ -1,2 +1,2 @@
-# Python_Crash_Course
+# Python Crash Course
 Python fundamentals for beginners 
